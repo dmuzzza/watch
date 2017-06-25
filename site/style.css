@@ -228,7 +228,7 @@ font-size: 19pt;
 	background-image: url(img/p2.jpg);
  }
 @media screen and (max-width: 768px){
- 	 .bb3 {height: 1950px;}
+ 	 .bb3 {height: auto;}
  }
  
  .timer h3 {
@@ -243,7 +243,7 @@ font-size: 30pt;
  	
  	
  	float: left;
- 	margin-left: 120px;
+ 	margin-left: 20px;
  	
 
  }
