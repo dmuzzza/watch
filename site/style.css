@@ -242,7 +242,7 @@ font-size: 30pt;
 	 background-image: url(img/p2.jpg);
 	 background-attachment:fixed;
 	 background-size: cover;
- 	 height: 550px;
+ 	 height: 650px;
  	 
  	
 
@@ -348,7 +348,7 @@ margin-bottom:50px;
   }
   #portfolio li {
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 25px;
 	margin-top:25px;
 	position:relative;
   }
@@ -503,7 +503,11 @@ padding-top:20px;
          margin-top: 40px;
         text-align:center;
 		color:	#fff ;
-		
+@media (max-width: 768px){
+	.bbb6 {
+	 margin-left: 40px;	
+	}	
+	}		
 		font-family: 'Roboto Bold Italic', arial;
 		}
 		.bbb6 img {
