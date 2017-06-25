@@ -227,8 +227,8 @@ font-size: 19pt;
 	height: 1280px;
 	background-image: url(img/p2.jpg);
  }
- @media (max-width: 768px){
- 	 .bb3 {height: auto;}
+@media (max-width: 768px){
+ 	 .bb3 {height: 1650px;}
  }
  
  .timer h3 {
@@ -347,19 +347,17 @@ margin-bottom:50px;
 	  list-style-type:none;
   }
   #portfolio li {
-	  display: inline-block;
-	 /* width:230px;*/
+	display: inline-block;
 	margin-left: 25px;
 	margin-top:25px;
-	  position:relative;
+	position:relative;
   }
 @media (max-width: 768px){
 	#portfolio li {
-		display: inline-block;
-	 /* width:230px;*/
+	display: inline-block;
 	margin-left: 10px;
 	margin-top:25px;
-	  position:relative;
+	position:relative;
 	}
  }
   #portfolio img{
