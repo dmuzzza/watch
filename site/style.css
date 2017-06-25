@@ -227,7 +227,7 @@ font-size: 19pt;
 	height: 1280px;
 	background-image: url(img/p2.jpg);
  }
-@media (max-width: 768px){
+@media screen and (max-width: 768px){
  	 .bb3 {height: 1650px;}
  }
  
