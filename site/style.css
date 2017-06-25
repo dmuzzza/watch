@@ -468,6 +468,11 @@ margin-bottom:50px;
 	width:100%;
 	background-color: #202020;
 }
+@media (max-width: 768px){
+	.b5{
+	height: 1250px;
+	}
+}
 .z1 {
 	color:	#F8F8F8 ;
 	text-align:center;
@@ -579,6 +584,11 @@ background-image: url(img/p2.jpg);
 	background-color: rgba(0,0,0,.6);
 	background-size: cover;
 	  
+}
+@media (max-width: 768px){
+	.b6{
+	height: 950px;
+	}
 }
 .bc{
 	margin-right:30px;
