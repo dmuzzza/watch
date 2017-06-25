@@ -574,10 +574,10 @@ padding-top:20px;
 			padding-top: 15px;
 		}
 .b6{
-	height: 400px;	
+	height: 950px;	
 background-image: url(img/p2.jpg);
 	background-color: rgba(0,0,0,.6);
-	background-size:100%;
+	background-size: cover;
 	  
 }
 .bc{
@@ -612,6 +612,11 @@ background-image: url(img/p2.jpg);
 		border-radius: 10px;
 		text-align: justify;
 		}
+@media (max-width: 768px){
+	#с1{
+	margin-left:70px;
+	}
+}
 
 .b7 {
 
