@@ -25,7 +25,7 @@ header {
 	  background-color: rgba(0,0,0,0.3);
 }
 @media screen  and (max-width: 453px){
-.head {height: 1040px;}
+.head {height: 1100px;}
 }
 
 #header-right {
@@ -464,7 +464,7 @@ margin-bottom:50px;
 	
 }
 .b5{
-	height: 1400px;
+	height: 450px;
 	width:100%;
 	background-color: #202020;
 }
@@ -574,7 +574,7 @@ padding-top:20px;
 			padding-top: 15px;
 		}
 .b6{
-	height: 950px;	
+	height: 450px;	
 background-image: url(img/p2.jpg);
 	background-color: rgba(0,0,0,.6);
 	background-size: cover;
