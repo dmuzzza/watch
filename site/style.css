@@ -780,7 +780,8 @@ background-image: url(img/p2.jpg);
   padding-bottom:10px;
 }
 @media screen and (max-width:490px){
- .content-txt h1{font-size:18px;}
+ .content-txt h1{font-size:18px;
+	margin-left:10px;}
 }
 .content-txt h2{
   font-family:arial;
@@ -792,7 +793,8 @@ background-image: url(img/p2.jpg);
   margin-left:30px;
 }
 @media screen and (max-width:490px){
- .content-txt h2{font-size:12px;}
+ .content-txt h2{font-size:12px;
+	margin-left:10px;}
 }
 
 /* Switch */
