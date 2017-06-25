@@ -681,7 +681,7 @@ background-image: url(img/p2.jpg);
  #slider{height:420px;}
 }
 @media screen and (max-width:490px){
- #slider{height:320px;}
+ #slider{height:230px;}
 }
 @keyframes load{
   from{left:-100%;}
@@ -758,7 +758,7 @@ background-image: url(img/p2.jpg);
  .content-txt{top:200px;}
 }
 @media screen and (max-width:490px){
- .content-txt{top:130px;}
+ .content-txt{top:45px;}
 }
 .content-txt h1{
   font-family:Arial;
