@@ -232,7 +232,7 @@ font-size: 19pt;
  }
  
  .timer h3 {
- 	margin-left: 550px;
+ 	margin-left: 10px;
  	text-align: center;
  	padding-top: 20px;
 font-size: 30pt;
@@ -252,7 +252,7 @@ font-size: 30pt;
  }
  .timer form {
  	float: left;
- 	margin-left: 150px;
+ 	margin-left: 10px;
 
  }
 .tm {
