@@ -614,7 +614,7 @@ background-image: url(img/p2.jpg);
 		}
 @media (max-width: 768px){
 	#с1{
-	margin-left:70px;
+	margin-left:50px;
 	}
 }
 
@@ -637,7 +637,7 @@ background-image: url(img/p2.jpg);
 }
 @media (max-width: 768px){
 	#w1{
-	padding-left: 110px;
+	padding-left: 100px;
 	}
 }
 #w2 {
@@ -649,7 +649,7 @@ background-image: url(img/p2.jpg);
 }
 @media (max-width: 768px){
 	#w2{
-	padding-left: 90px;
+	padding-left: 80px;
 	}
 }
 #w3 {
@@ -663,7 +663,7 @@ background-image: url(img/p2.jpg);
 }
 @media (max-width: 768px){
 	#w3{
-	padding-left: 90px;
+	padding-left: 80px;
 	}
 }
 
